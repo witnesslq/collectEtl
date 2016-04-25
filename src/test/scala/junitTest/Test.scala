@@ -1,0 +1,5 @@
+package junitTest
+
+class Test {
+  
+}
